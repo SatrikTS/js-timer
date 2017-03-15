@@ -1,0 +1,13 @@
+.timer {
+  width: 200px;
+  min-height: 200px;
+  margin: auto;
+}
+.time-area {
+  width: 100px;
+  height: 100px;
+}
+
+.stats {
+  list-style: none;
+}
